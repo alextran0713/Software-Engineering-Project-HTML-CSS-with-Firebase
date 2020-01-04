@@ -1,0 +1,68 @@
+/*Empty css file*/
+
+body {
+  height: 100%;
+}
+.main {
+  /* border: 1px purple solid; */
+}
+.fourm {
+  display:flex;
+  justify-content: space-around;
+}
+.post {
+  width : 69%;
+  /* border: 1px blue solid; */
+  /* background-color: #555; */
+  /* display: flex;
+  flex-wrap: wrap; */
+
+}
+textarea {
+  border-radius: 10px;
+  /* border-top-left-radius: 5px;
+  border-bottom-right-radius: 5px; */
+
+}
+.output_text_area textarea {
+  width: 100%;
+  /* background-color: skyblue; */
+
+}
+.input_area {
+  display: flex;
+  justify-content: space-between;
+    /* background-color: yellow; */
+  /* align-content: center; */
+  /* width: 100%; */
+
+}
+.input_text_area {
+  width: 89%;
+}
+.input_text_area textarea {
+
+  width: 100%;
+  /* height: 100%; */
+  text-indent: 5px;
+  /* height: 100%; */
+  /* background-color: green; */
+  /* margin: auto; */
+}
+.input_area button {
+  width: 9%;
+}
+/* .submit_button {
+  in: 1px red solid;
+  width: 10%;
+} */
+
+.sizebar{
+  width :29%;
+  /* background-color: purple; */
+}
+
+.article{
+  height :25%;
+  /* background-color: blue; */
+}
